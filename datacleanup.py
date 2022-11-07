@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 ##uploading the data
-df = pd.read_csv('Hospital_Inpatient_Discharges__SPARCS_De-Identified___2016.csv')
+df = pd.read_csv('cleaned_data/Hospital_Inpatient_Discharges__SPARCS_De-Identified___2016.csv')
 df
 
 ##see columns
